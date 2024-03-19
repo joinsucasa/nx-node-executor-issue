@@ -47,7 +47,8 @@
           "buildTarget": "my-node-app:build:development"
         },
         "production": {
-          "buildTarget": "my-node-app:build:production"
+          "buildTarget": "my-node-app:build:production",
+          "watch": false
         }
       }
     }
