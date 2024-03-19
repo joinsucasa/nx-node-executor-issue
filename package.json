@@ -9,6 +9,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "nx": "^18.1.2"
-  }
+    "nx": "18.1.2"
+  },
+  "nx": {}
 }
